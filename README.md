@@ -1,0 +1,2 @@
+# Hybrid-stacking-model-predicts-calibrated-flood-drought-risk-with-SHAP-dashboard-insights
+This system uses a hybrid stacking ensemble combining Random Forest, XGBoost, and Ridge Regression to deliver highly accurate flood and drought risk predictions with calibrated 0–100% probabilities. An interactive Streamlit dashboard with SHAP interpretability explains each prediction, ensuring transparency and informed decision-making.
